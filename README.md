@@ -13,3 +13,8 @@ To run locally:
 7. Navigate to http://localhost:8000
 8. Login with the username `chris` and a password of `test123`
 
+
+To run tests:
+----
+1. ```Follow above instructions to get everything installed correctly```
+2. From the top directory, run ```./manage.py test```
