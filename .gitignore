@@ -1,6 +1,5 @@
 .idea/
 __pycache__
-tests.py
-db.sqlite3
+sqlite3.db
 *.zip
 out/
